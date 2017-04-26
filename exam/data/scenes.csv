@@ -1,0 +1,898 @@
+1,1,1,1,SCENE I. Rousillon. The COUNT's palace.
+2,1,1,2,SCENE II. Paris. The KING's palace.
+3,1,1,3,SCENE III. Rousillon. The COUNT's palace.
+4,1,2,1,SCENE I. Paris. The KING's palace.
+5,1,2,2,SCENE II. Rousillon. The COUNT's palace.
+6,1,2,3,SCENE III. Paris. The KING's palace.
+7,1,2,4,SCENE IV. Paris. The KING's palace.
+8,1,2,5,SCENE V. Paris. The KING's palace.
+9,1,3,1,SCENE I. Florence. The DUKE's palace.
+10,1,3,2,SCENE II. Rousillon. The COUNT's palace.
+11,1,3,3,SCENE III. Florence. Before the DUKE's palace.
+12,1,3,4,SCENE IV. Rousillon. The COUNT's palace.
+13,1,3,5,SCENE V. Florence. Without the walls. A tucket afar off.
+14,1,3,6,SCENE VI. Camp before Florence.
+15,1,3,7,SCENE VII. Florence. The Widow's house.
+16,1,4,1,SCENE I. Without the Florentine camp.
+17,1,4,2,SCENE II. Florence. The Widow's house.
+18,1,4,3,SCENE III. The Florentine camp.
+19,1,4,4,SCENE IV. Florence. The Widow's house.
+20,1,4,5,SCENE V. Rousillon. The COUNT's palace.
+21,1,5,1,SCENE I. Marseilles. A street.
+22,1,5,2,SCENE II. Rousillon. Before the COUNT's palace.
+23,1,5,3,SCENE III. Rousillon. The COUNT's palace.
+24,2,1,1,SCENE I. Orchard of Oliver's house.
+25,2,1,2,SCENE II. Lawn before the Duke's palace.
+26,2,1,3,SCENE III. A room in the palace.
+27,2,2,1,SCENE I. The Forest of Arden.
+28,2,2,2,SCENE II. A room in the palace.
+29,2,2,3,SCENE III. Before OLIVER'S house.
+30,2,2,4,SCENE IV. The Forest of Arden.
+31,2,2,5,SCENE V. The Forest.
+32,2,2,6,SCENE VI. The forest.
+33,2,2,7,SCENE VII. The forest.
+34,2,3,1,SCENE I. A room in the palace.
+35,2,3,2,SCENE II. The forest.
+36,2,3,3,SCENE III. The forest.
+37,2,3,4,SCENE IV. The forest.
+38,2,3,5,SCENE V. Another part of the forest.
+39,2,4,1,SCENE I. The forest.
+40,2,4,2,SCENE II. The forest.
+41,2,4,3,SCENE III. The forest.
+42,2,5,1,SCENE I. The forest.
+43,2,5,2,SCENE II. The forest.
+44,2,5,3,SCENE III. The forest.
+45,2,5,4,SCENE IV. The forest.
+46,3,1,1,SCENE I. A hall in DUKE SOLINUS'S palace.
+47,3,1,2,SCENE II. The Mart.
+48,3,2,1,SCENE I. The house of ANTIPHOLUS of Ephesus.
+49,3,2,2,SCENE II. A public place.
+50,3,3,1,SCENE I. Before the house of ANTIPHOLUS of Ephesus.
+51,3,3,2,SCENE II. The same.
+52,3,4,1,SCENE I. A public place.
+53,3,4,2,SCENE II. The house of ANTIPHOLUS of Ephesus.
+54,3,4,3,SCENE III. A public place.
+55,3,4,4,SCENE IV. A street.
+56,3,5,1,SCENE I. A street before a Priory.
+57,4,1,1,SCENE I. Britain. The garden of Cymbeline's palace.
+58,4,1,2,SCENE II. The same. A public place.
+59,4,1,3,SCENE III. A room in Cymbeline's palace.
+60,4,1,4,SCENE IV. Rome. Philario's house.
+61,4,1,5,SCENE V. Britain. A room in Cymbeline's palace.
+62,4,1,6,SCENE VI. The same. Another room in the palace.
+63,4,2,1,SCENE I. Britain. Before Cymbeline's palace.
+64,4,2,2,SCENE II. Imogen's bedchamber in Cymbeline's palace:
+65,4,2,4,SCENE IV. Rome. Philario's house.
+66,4,2,5,SCENE V. Another room in Philario's house.
+67,4,3,1,SCENE I. Britain. A hall in Cymbeline's palace.
+68,4,3,2,SCENE II. Another room in the palace.
+69,4,3,3,SCENE III. Wales: a mountainous country with a cave.
+70,4,3,4,SCENE IV. Country near Milford-Haven.
+71,4,3,5,SCENE V. A room in Cymbeline's palace.
+72,4,3,6,SCENE VI. Wales. Before the cave of Belarius.
+73,4,3,7,SCENE VII. Rome. A public place.
+74,4,4,1,SCENE I. Wales: near the cave of Belarius.
+75,4,4,2,SCENE II. Before the cave of Belarius.
+76,4,4,3,SCENE III. A room in Cymbeline's palace.
+77,4,4,4,SCENE IV. Wales: before the cave of Belarius.
+78,4,5,1,SCENE I. Britain. The Roman camp.
+79,4,5,2,SCENE II. Field of battle between the British and Roman camps.
+80,4,5,3,SCENE III. Another part of the field.
+81,4,5,4,SCENE IV. A British prison.
+82,4,5,5,SCENE V. Cymbeline's tent.
+83,5,1,1,SCENE I. The king of Navarre's park.
+84,5,1,2,SCENE II. The same.
+85,5,2,1,SCENE I. The same.
+86,5,3,1,SCENE I. The same.
+87,5,4,1,SCENE I. The same.
+88,5,4,2,SCENE II. The same.
+89,5,4,3,SCENE III. The same.
+90,5,5,1,SCENE I. The same.
+91,5,5,2,SCENE II. The same.
+92,6,1,1,SCENE I. An apartment in the DUKE'S palace.
+93,6,1,2,SCENE II. A Street.
+94,6,1,3,SCENE III. A monastery.
+95,6,1,4,SCENE IV. A nunnery.
+96,6,2,1,SCENE I. A hall In ANGELO's house.
+97,6,2,2,SCENE II. Another room in the same.
+98,6,2,3,SCENE III. A room in a prison.
+99,6,2,4,SCENE IV. A room in ANGELO's house.
+100,6,3,1,SCENE I. A room in the prison.
+101,6,3,2,SCENE II. The street before the prison.
+102,6,4,1,SCENE I. The moated grange at ST. LUKE's.
+103,6,4,2,SCENE II. A room in the prison.
+104,6,4,3,SCENE III. Another room in the same.
+105,6,4,4,SCENE IV. A room in ANGELO's house.
+106,6,4,5,SCENE V. Fields without the town.
+107,6,4,6,SCENE VI. Street near the city gate.
+108,6,5,1,SCENE I. The city gate.
+109,7,1,1,SCENE I. Windsor. Before PAGE's house.
+110,7,1,2,SCENE II. The same.
+111,7,1,3,SCENE III. A room in the Garter Inn.
+112,7,1,4,SCENE IV. A room in DOCTOR CAIUS' house.
+113,7,2,1,SCENE I. Before PAGE'S house.
+114,7,2,2,SCENE II. A room in the Garter Inn.
+115,7,2,3,SCENE III. A field near Windsor.
+116,7,3,1,SCENE I. A field near Frogmore.
+117,7,3,2,SCENE II. A street.
+118,7,3,3,SCENE III. A room in FORD'S house.
+119,7,3,4,SCENE IV. A room in PAGE'S house.
+120,7,3,5,SCENE V. A room in the Garter Inn.
+121,7,4,1,SCENE I. A street.
+122,7,4,2,SCENE II. A room in FORD'S house.
+123,7,4,3,SCENE III. A room in the Garter Inn.
+124,7,4,4,SCENE IV. A room in FORD'S house.
+125,7,4,5,SCENE V. A room in the Garter Inn.
+126,7,4,6,SCENE VI. Another room in the Garter Inn.
+127,7,5,1,SCENE I. A room in the Garter Inn.
+128,7,5,2,SCENE II. Windsor Park.
+129,7,5,3,SCENE III. A street leading to the Park.
+130,7,5,4,SCENE IV. Windsor Park.
+131,7,5,5,SCENE V. Another part of the Park.
+132,8,1,1,SCENE I. Venice. A street.
+133,8,1,3,SCENE III. Venice. A public place.
+134,8,2,1,SCENE I. Belmont. A room in PORTIA'S house.
+135,8,2,2,SCENE II. Venice. A street.
+136,8,2,3,SCENE III. The same. A room in SHYLOCK'S house.
+137,8,2,4,SCENE IV. The same. A street.
+138,8,2,5,SCENE V. The same. Before SHYLOCK'S house.
+139,8,2,6,SCENE VI. The same.
+140,8,2,7,SCENE VII. Belmont. A room in PORTIA'S house.
+141,8,2,8,SCENE VIII. Venice. A street.
+142,8,2,9,SCENE IX. Belmont. A room in PORTIA'S house.
+143,8,3,1,SCENE I. Venice. A street.
+144,8,3,2,SCENE II. Belmont. A room in PORTIA'S house.
+145,8,3,3,SCENE III. Venice. A street.
+146,8,3,4,SCENE IV. Belmont. A room in PORTIA'S house.
+147,8,3,5,SCENE V. The same. A garden.
+148,8,4,1,SCENE I. Venice. A court of justice.
+149,8,4,2,SCENE II. The same. A street.
+150,8,5,1,SCENE I. Belmont. Avenue to PORTIA'S house.
+151,9,1,1,SCENE I. Athens. The palace of THESEUS.
+152,9,1,2,SCENE II. Athens. QUINCE'S house.
+153,9,2,1,SCENE I. A wood near Athens.
+154,9,2,2,SCENE II. Another part of the wood.
+155,9,3,1,SCENE I. The wood. TITANIA lying asleep.
+156,9,3,2,SCENE II. Another part of the wood.
+157,9,4,1,"SCENE I. The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA"
+158,9,4,2,SCENE II. Athens. QUINCE'S house.
+159,9,5,1,SCENE I. Athens. The palace of THESEUS.
+160,10,1,1,SCENE I. Before LEONATO'S house.
+161,10,1,2,SCENE II. A room in LEONATO's house.
+162,10,1,3,SCENE III. The same.
+163,10,2,1,SCENE I. A hall in LEONATO'S house.
+164,10,2,2,SCENE II. The same.
+165,10,2,3,SCENE III. LEONATO'S orchard.
+166,10,3,1,SCENE I. LEONATO'S garden.
+167,10,3,2,SCENE II. A room in LEONATO'S house
+168,10,3,3,SCENE III. A street.
+169,10,3,4,SCENE IV. HERO's apartment.
+170,10,3,5,SCENE V. Another room in LEONATO'S house.
+171,10,4,1,SCENE I. A church.
+172,10,4,2,SCENE II. A prison.
+173,10,5,1,SCENE I. Before LEONATO'S house.
+174,10,5,2,SCENE II. LEONATO'S garden.
+175,10,5,3,SCENE III. A church.
+176,10,5,4,SCENE IV. A room in LEONATO'S house.
+177,11,1,0,PROLOGUE
+178,11,1,1,SCENE I. Antioch. A room in the palace.
+179,11,1,2,SCENE II. Tyre. A room in the palace.
+180,11,1,3,SCENE III. Tyre. An ante-chamber in the palace.
+181,11,1,4,SCENE IV. Tarsus. A room in the Governor's house.
+182,11,2,1,SCENE I. Pentapolis. An open place by the sea-side.
+183,11,2,2,SCENE II. The same. A public way or platform leading to the
+184,11,2,3,SCENE III. The same. A hall of state: a banquet prepared.
+185,11,2,4,SCENE IV. Tyre. A room in the Governor's house.
+186,11,2,5,SCENE V. Pentapolis. A room in the palace.
+187,11,3,2,SCENE II. Ephesus. A room in CERIMON's house.
+188,11,3,3,SCENE III. Tarsus. A room in CLEON's house.
+189,11,3,4,SCENE IV. Ephesus. A room in CERIMON's house.
+190,11,4,1,SCENE I. Tarsus. An open place near the sea-shore.
+191,11,4,2,SCENE II. Mytilene. A room in a brothel.
+192,11,4,3,SCENE III. Tarsus. A room in CLEON's house.
+193,11,4,5,SCENE V. Mytilene. A street before the brothel.
+194,11,4,6,SCENE VI. The same. A room in the brothel.
+195,11,5,1,"SCENE I. On board PERICLES' ship, off Mytilene. A close"
+196,11,5,3,SCENE III. The temple of Diana at Ephesus; THAISA standing
+197,12,0,1,SCENE I. Before an alehouse on a heath.
+198,12,0,2,SCENE II. A bedchamber in the Lord's house.
+199,12,1,1,SCENE I. Padua. A public place.
+200,12,1,2,SCENE II. Padua. Before HORTENSIO'S house.
+201,12,2,1,SCENE I. Padua. A room in BAPTISTA'S house.
+202,12,3,1,SCENE I. Padua. BAPTISTA'S house.
+203,12,3,2,SCENE II. Padua. Before BAPTISTA'S house.
+204,12,4,1,SCENE I. PETRUCHIO'S country house.
+205,12,4,2,SCENE II. Padua. Before BAPTISTA'S house.
+206,12,4,3,SCENE III. A room in PETRUCHIO'S house.
+207,12,4,4,SCENE IV. Padua. Before BAPTISTA'S house.
+208,12,4,5,SCENE V. A public road.
+209,12,5,1,SCENE I. Padua. Before LUCENTIO'S house.
+210,12,5,2,SCENE II. Padua. LUCENTIO'S house.
+211,13,1,1,SCENE I. On a ship at sea: a tempestuous noise
+212,13,1,2,SCENE II. The island. Before PROSPERO'S cell.
+213,13,2,1,SCENE I. Another part of the island.
+214,13,2,2,SCENE II. Another part of the island.
+215,13,3,1,SCENE I. Before PROSPERO'S Cell.
+216,13,3,2,SCENE II. Another part of the island.
+217,13,3,3,SCENE III. Another part of the island.
+218,13,4,1,SCENE I. Before PROSPERO'S cell.
+219,13,5,1,SCENE I. Before PROSPERO'S cell.
+220,14,1,1,SCENE I. Troy. Before Priam's palace.
+221,14,1,2,SCENE II. The Same. A street.
+222,14,1,3,SCENE III. The Grecian camp. Before Agamemnon's tent.
+223,14,2,1,SCENE I. A part of the Grecian camp.
+224,14,2,2,SCENE II. Troy. A room in Priam's palace.
+225,14,2,3,SCENE III. The Grecian camp. Before Achilles' tent.
+226,14,3,1,SCENE I. Troy. Priam's palace.
+227,14,3,2,SCENE II. The same. Pandarus' orchard.
+228,14,3,3,SCENE III. The Grecian camp. Before Achilles' tent.
+229,14,4,1,SCENE I. Troy. A street.
+230,14,4,2,SCENE II. The same. Court of Pandarus' house.
+231,14,4,3,SCENE III. The same. Street before Pandarus' house.
+232,14,4,4,SCENE IV. The same. Pandarus' house.
+233,14,4,5,SCENE V. The Grecian camp. Lists set out.
+234,14,5,1,SCENE I. The Grecian camp. Before Achilles' tent.
+235,14,5,2,SCENE II. The same. Before Calchas' tent.
+236,14,5,3,SCENE III. Troy. Before Priam's palace.
+237,14,5,4,SCENE IV. Plains between Troy and the Grecian camp.
+238,14,5,5,SCENE V. Another part of the plains.
+239,14,5,6,SCENE VI. Another part of the plains.
+240,14,5,7,SCENE VII. Another part of the plains.
+241,14,5,8,SCENE VIII. Another part of the plains.
+242,14,5,9,SCENE IX. Another part of the plains.
+243,15,1,1,SCENE I. DUKE ORSINO's palace.
+244,15,1,2,SCENE II. The sea-coast.
+245,15,1,3,SCENE III. OLIVIA'S house.
+246,15,1,4,SCENE IV. DUKE ORSINO's palace.
+247,15,1,5,SCENE V. OLIVIA'S house.
+248,15,2,1,SCENE I. The sea-coast.
+249,15,2,2,SCENE II. A street.
+250,15,2,3,SCENE III. OLIVIA's house.
+251,15,2,4,SCENE IV. DUKE ORSINO's palace.
+252,15,2,5,SCENE V. OLIVIA's garden.
+253,15,3,1,SCENE I. OLIVIA's garden.
+254,15,3,2,SCENE II. OLIVIA's house.
+255,15,3,3,SCENE III. A street.
+256,15,3,4,SCENE IV. OLIVIA's garden.
+257,15,4,1,SCENE I. Before OLIVIA's house.
+258,15,4,2,SCENE II. OLIVIA's house.
+259,15,4,3,SCENE III. OLIVIA's garden.
+260,15,5,1,SCENE I. Before OLIVIA's house.
+261,16,1,1,SCENE I. Verona. An open place.
+262,16,1,2,SCENE II. The same. Garden of JULIA's house.
+263,16,1,3,SCENE III. The same. ANTONIO's house.
+264,16,2,1,SCENE I. Milan. The DUKE's palace.
+265,16,2,2,SCENE II. Verona. JULIA'S house.
+266,16,2,3,SCENE III. The same. A street.
+267,16,2,4,SCENE IV. Milan. The DUKE's palace.
+268,16,2,5,SCENE V. The same. A street.
+269,16,2,6,SCENE VI. The same. The DUKE'S palace.
+270,16,2,7,SCENE VII. Verona. JULIA'S house.
+271,16,3,1,SCENE I. Milan. The DUKE's palace.
+272,16,3,2,SCENE II. The same. The DUKE's palace.
+273,16,4,1,SCENE I. The frontiers of Mantua. A forest.
+274,16,4,2,"SCENE II. Milan. Outside the DUKE's palace, under SILVIA's chamber."
+275,16,4,3,SCENE III. The same.
+276,16,4,4,SCENE IV. The same.
+277,16,5,1,SCENE I. Milan. An abbey.
+278,16,5,2,SCENE II. The same. The DUKE's palace.
+279,16,5,3,SCENE III. The frontiers of Mantua. The forest.
+280,16,5,4,SCENE IV. Another part of the forest.
+281,17,1,1,SCENE I. Antechamber in LEONTES' palace.
+282,17,1,2,SCENE II. A room of state in the same.
+283,17,2,1,SCENE I. A room in LEONTES' palace.
+284,17,2,2,SCENE II. A prison.
+285,17,2,3,SCENE III. A room in LEONTES' palace.
+286,17,3,1,SCENE I. A sea-port in Sicilia.
+287,17,3,2,SCENE II. A court of Justice.
+288,17,3,3,SCENE III. Bohemia. A desert country near the sea.
+289,17,4,2,SCENE II. Bohemia. The palace of POLIXENES.
+290,17,4,3,SCENE III. A road near the Shepherd's cottage.
+291,17,4,4,SCENE IV. The Shepherd's cottage.
+292,17,5,1,SCENE I. A room in LEONTES' palace.
+293,17,5,2,SCENE II. Before LEONTES' palace.
+294,17,5,3,SCENE III. A chapel in PAULINA'S house.
+295,18,1,1,SCENE I. London. The palace.
+296,18,1,2,SCENE II. London. An apartment of the Prince's.
+297,18,1,3,SCENE III. London. The palace.
+298,18,2,1,SCENE I. Rochester. An inn yard.
+299,18,2,2,"SCENE II. The highway, near Gadshill."
+300,18,2,3,SCENE III. Warkworth castle
+301,18,2,4,"SCENE IV. The Boar's-Head Tavern, Eastcheap."
+302,18,3,1,SCENE I. Bangor. The Archdeacon's house.
+303,18,3,2,SCENE II. London. The palace.
+304,18,4,1,SCENE I. The rebel camp near Shrewsbury.
+305,18,4,2,SCENE II. A public road near Coventry.
+306,18,4,3,SCENE III. The rebel camp near Shrewsbury.
+307,18,4,4,SCENE IV. York. The ARCHBISHOP'S palace.
+308,18,5,1,SCENE I. KING HENRY IV's camp near Shrewsbury.
+309,18,5,2,SCENE II. The rebel camp.
+310,18,5,3,SCENE III. Plain between the camps.
+311,18,5,4,SCENE IV. Another part of the field.
+312,18,5,5,SCENE V. Another part of the field.
+313,19,0,0,Induction
+314,19,1,1,SCENE I. The same.
+315,19,1,2,SCENE II. London. A street.
+316,19,1,3,SCENE III. York. The Archbishop's palace.
+317,19,2,1,SCENE I. London. A street.
+318,19,2,2,SCENE II. London. Another street.
+319,19,2,3,SCENE III. Warkworth. Before the castle.
+320,19,2,4,SCENE IV. London. The Boar's-head Tavern in Eastcheap.
+321,19,3,1,SCENE I. Westminster. The palace.
+322,19,3,2,SCENE II. Gloucestershire. Before SHALLOW'S house.
+323,19,4,1,SCENE I. Yorkshire. Gaultree Forest.
+324,19,4,2,SCENE II. Another part of the forest.
+325,19,4,3,SCENE III. Another part of the forest.
+326,19,4,4,SCENE IV. Westminster. The Jerusalem Chamber.
+327,19,4,5,SCENE V. Another chamber.
+328,19,5,1,SCENE I. Gloucestershire. SHALLOW'S house.
+329,19,5,2,SCENE II. Westminster. The palace.
+330,19,5,3,SCENE III. Gloucestershire. SHALLOW'S orchard.
+331,19,5,4,SCENE IV. London. A street.
+332,19,5,5,SCENE V. A public place near Westminster Abbey.
+333,20,1,0,PROLOGUE
+334,20,1,1,SCENE I. London. An ante-chamber in the KING'S palace.
+335,20,1,2,SCENE II. The same. The Presence chamber.
+336,20,2,0,PROLOGUE
+337,20,2,1,SCENE I. London. A street.
+338,20,2,2,SCENE II. Southampton. A council-chamber.
+339,20,2,3,SCENE III. London. Before a tavern.
+340,20,2,4,SCENE IV. France. The KING'S palace.
+341,20,3,0,PROLOGUE
+342,20,3,1,SCENE I. France. Before Harfleur.
+343,20,3,2,SCENE II. The same.
+344,20,3,3,SCENE III. The same. Before the gates.
+345,20,3,4,SCENE IV. The FRENCH KING's palace.
+346,20,3,5,SCENE V. The same.
+347,20,3,6,SCENE VI. The English camp in Picardy.
+348,20,3,7,"SCENE VII. The French camp, near Agincourt:"
+349,20,4,0,PROLOGUE
+350,20,4,1,SCENE I. The English camp at Agincourt.
+351,20,4,2,SCENE II. The French camp.
+352,20,4,3,SCENE III. The English camp.
+353,20,4,4,SCENE IV. The field of battle.
+354,20,4,5,SCENE V. Another part of the field.
+355,20,4,6,SCENE VI. Another part of the field.
+356,20,4,7,SCENE VII. Another part of the field.
+357,20,4,8,SCENE VIII. Before KING HENRY'S pavilion.
+358,20,5,0,PROLOGUE
+359,20,5,1,SCENE I. France. The English camp.
+360,20,5,2,SCENE II. France. A royal palace.
+361,21,1,1,SCENE I. Westminster Abbey.
+362,21,1,2,SCENE II. France. Before Orleans.
+363,21,1,3,SCENE III. London. Before the Tower.
+364,21,1,4,SCENE IV. Orleans.
+365,21,1,5,SCENE V. The same.
+366,21,1,6,SCENE VI. The same.
+367,21,2,1,SCENE I. Before Orleans.
+368,21,2,2,SCENE II. Orleans. Within the town.
+369,21,2,3,SCENE III. Auvergne. The COUNTESS's castle.
+370,21,2,4,SCENE IV. London. The Temple-garden.
+371,21,2,5,SCENE V. The Tower of London.
+372,21,3,1,SCENE I. London. The Parliament-house.
+373,21,3,2,SCENE II. France. Before Rouen.
+374,21,3,3,SCENE III. The plains near Rouen.
+375,21,3,4,SCENE IV. Paris. The palace.
+376,21,4,1,SCENE I. Paris. A hall of state.
+377,21,4,2,SCENE II. Before Bourdeaux.
+378,21,4,3,SCENE III. Plains in Gascony.
+379,21,4,4,SCENE IV. Other plains in Gascony.
+380,21,4,5,SCENE V. The English camp near Bourdeaux.
+381,21,4,6,SCENE VI. A field of battle.
+382,21,4,7,SCENE VII. Another part of the field.
+383,21,5,1,SCENE I. London. The palace.
+384,21,5,2,SCENE II. France. Plains in Anjou.
+385,21,5,3,SCENE III. Before Angiers.
+386,21,5,4,SCENE IV. Camp of the YORK in Anjou.
+387,21,5,5,SCENE V. London. The palace.
+388,22,1,1,SCENE I. London. The palace.
+389,22,1,2,SCENE II. GLOUCESTER'S house.
+390,22,1,3,SCENE III. The palace.
+391,22,1,4,SCENE IV. GLOUCESTER's garden.
+392,22,2,1,SCENE I. Saint Alban's.
+393,22,2,2,SCENE II. London. YORK'S garden.
+394,22,2,3,SCENE III. A hall of justice.
+395,22,2,4,SCENE IV. A street.
+396,22,3,1,SCENE I. The Abbey at Bury St. Edmund's.
+397,22,3,2,SCENE II. Bury St. Edmund's. A room of state.
+398,22,3,3,SCENE III. A bedchamber.
+399,22,4,1,SCENE I. The coast of Kent.
+400,22,4,2,SCENE II. Blackheath.
+401,22,4,3,SCENE III. Another part of Blackheath.
+402,22,4,4,SCENE IV. London. The palace.
+403,22,4,5,SCENE V. London. The Tower.
+404,22,4,6,SCENE VI. London. Cannon Street.
+405,22,4,7,SCENE VII. London. Smithfield.
+406,22,4,8,SCENE VIII. Southwark.
+407,22,4,9,SCENE IX. Kenilworth Castle.
+408,22,5,1,SCENE I. Fields between Dartford and Blackheath.
+409,22,5,2,SCENE II. Saint Alban's.
+410,22,5,3,SCENE III. Fields near St. Alban's.
+411,23,1,1,SCENE I. London. The Parliament-house.
+412,23,1,2,SCENE II. Sandal Castle.
+413,23,1,3,SCENE III. Field of battle betwixt Sandal Castle and Wakefield.
+414,23,1,4,SCENE IV. Another part of the field.
+415,23,2,1,SCENE I. A plain near Mortimer's Cross in Herefordshire.
+416,23,2,2,SCENE II. Before York.
+417,23,2,3,"SCENE III. A field of battle between Towton and Saxton, in"
+418,23,2,4,SCENE IV. Another part of the field.
+419,23,2,5,SCENE V. Another part of the field.
+420,23,2,6,SCENE VI. Another part of the field.
+421,23,3,1,SCENE I. A forest in the north of England.
+422,23,3,2,SCENE II. London. The palace.
+423,23,3,3,SCENE III. France. KING LEWIS XI's palace.
+424,23,4,1,SCENE I. London. The palace.
+425,23,4,2,SCENE II. A plain in Warwickshire.
+426,23,4,3,"SCENE III. Edward's camp, near Warwick."
+427,23,4,4,SCENE IV. London. The palace.
+428,23,4,5,SCENE V. A park near Middleham Castle In Yorkshire.
+429,23,4,6,SCENE VI. London. The Tower.
+430,23,4,7,SCENE VII. Before York.
+431,23,4,8,SCENE VIII. London. The palace.
+432,23,5,1,SCENE I. Coventry.
+433,23,5,2,SCENE II. A field of battle near Barnet.
+434,23,5,3,SCENE III. Another part of the field.
+435,23,5,4,SCENE IV. Plains near Teaksbury.
+436,23,5,5,SCENE V. Another part of the field.
+437,23,5,6,SCENE VI. London. The Tower.
+438,23,5,7,SCENE VII. London. The palace.
+439,24,1,0,PROLOGUE
+440,24,1,1,SCENE I. London. An ante-chamber in the palace.
+441,24,1,2,SCENE II. The same. The council-chamber.
+442,24,1,3,SCENE III. An ante-chamber in the palace.
+443,24,1,4,SCENE IV. A Hall in York Place.
+444,24,2,1,SCENE I. Westminster. A street.
+445,24,2,2,SCENE II. An ante-chamber in the palace.
+446,24,2,3,SCENE III. An ante-chamber of the QUEEN'S apartments.
+447,24,2,4,SCENE IV. A hall in Black-Friars.
+448,24,3,1,SCENE I. London. QUEEN KATHARINE's apartments.
+449,24,3,2,SCENE II. Ante-chamber to KING HENRY VIII's apartment.
+450,24,4,1,SCENE I. A street in Westminster.
+451,24,4,2,SCENE II. Kimbolton.
+452,24,5,1,SCENE I. London. A gallery in the palace.
+453,24,5,2,"SCENE II. Before the council-chamber. Pursuivants, Pages,  & c."
+454,24,5,3,SCENE III. The Council-Chamber.
+455,24,5,4,SCENE IV. The palace yard.
+456,24,5,5,SCENE V. The palace.
+457,25,1,1,SCENE I. KING JOHN'S palace.
+458,25,2,1,SCENE I. France. Before Angiers.
+459,25,3,1,SCENE I. The French King's pavilion.
+460,25,3,2,SCENE II. The same. Plains near Angiers.
+461,25,3,3,SCENE III. The same.
+462,25,3,4,SCENE IV. The same. KING PHILIP'S tent.
+463,25,4,1,SCENE I. A room in a castle.
+464,25,4,2,SCENE II. KING JOHN'S palace.
+465,25,4,3,SCENE III. Before the castle.
+466,25,5,1,SCENE I. KING JOHN'S palace.
+467,25,5,2,SCENE II. LEWIS's camp at St. Edmundsbury.
+468,25,5,3,SCENE III. The field of battle.
+469,25,5,4,SCENE IV. Another part of the field.
+470,25,5,5,SCENE V. The French camp.
+471,25,5,6,SCENE VI. An open place in the neighbourhood of Swinstead Abbey.
+472,25,5,7,SCENE VII. The orchard in Swinstead Abbey.
+473,26,1,1,SCENE I. London. KING RICHARD II's palace.
+474,26,1,2,SCENE II. The DUKE OF LANCASTER'S palace.
+475,26,1,3,SCENE III. The lists at Coventry.
+476,26,1,4,SCENE IV. The court.
+477,26,2,1,SCENE I. Ely House.
+478,26,2,2,SCENE II. The palace.
+479,26,2,3,SCENE III. Wilds in Gloucestershire.
+480,26,2,4,SCENE IV. A camp in Wales.
+481,26,3,1,SCENE I. Bristol. Before the castle.
+482,26,3,2,SCENE II. The coast of Wales. A castle in view.
+483,26,3,3,SCENE III. Wales. Before Flint castle.
+484,26,3,4,SCENE IV. LANGLEY. The DUKE OF YORK's garden.
+485,26,4,1,SCENE I. Westminster Hall.
+486,26,5,1,SCENE I. London. A street leading to the Tower.
+487,26,5,2,SCENE II. The DUKE OF YORK's palace.
+488,26,5,3,SCENE III. A royal palace.
+489,26,5,4,SCENE IV. The same.
+490,26,5,5,SCENE V. Pomfret castle.
+491,26,5,6,SCENE VI. Windsor castle.
+492,27,1,1,SCENE I. London. A street.
+493,27,1,2,SCENE II. The same. Another street.
+494,27,1,3,SCENE III. The palace.
+495,27,1,4,SCENE IV. London. The Tower.
+496,27,2,1,SCENE I. London. The palace.
+497,27,2,2,SCENE II. The palace.
+498,27,2,3,SCENE III. London. A street.
+499,27,2,4,SCENE IV. London. The palace.
+500,27,3,1,SCENE I. London. A street.
+501,27,3,2,SCENE II. Before Lord Hastings' house.
+502,27,3,3,SCENE III. Pomfret Castle.
+503,27,3,4,SCENE IV. The Tower of London.
+504,27,3,5,SCENE V. The Tower-walls.
+505,27,3,6,SCENE VI. The same.
+506,27,3,7,SCENE VII. Baynard's Castle.
+507,27,4,1,SCENE I. Before the Tower.
+508,27,4,2,SCENE II. London. The palace.
+509,27,4,3,SCENE III. The same.
+510,27,4,4,SCENE IV. Before the palace.
+511,27,4,5,SCENE V. Lord Derby's house.
+512,27,5,1,SCENE I. Salisbury. An open place.
+513,27,5,2,SCENE II. The camp near Tamworth.
+514,27,5,3,SCENE III. Bosworth Field.
+515,27,5,4,SCENE IV. Another part of the field.
+516,27,5,5,SCENE V. Another part of the field.
+517,28,1,1,SCENE I. Alexandria. A room in CLEOPATRA's palace.
+518,28,1,2,SCENE II. The same. Another room.
+519,28,1,3,SCENE III. The same. Another room.
+520,28,1,4,SCENE IV. Rome. OCTAVIUS CAESAR's house.
+521,28,1,5,SCENE V. Alexandria. CLEOPATRA's palace.
+522,28,2,1,SCENE I. Messina. POMPEY's house.
+523,28,2,2,SCENE II. Rome. The house of LEPIDUS.
+524,28,2,3,SCENE III. The same. OCTAVIUS CAESAR's house.
+525,28,2,4,SCENE IV. The same. A street.
+526,28,2,5,SCENE V. Alexandria. CLEOPATRA's palace.
+527,28,2,6,SCENE VI. Near Misenum.
+528,28,2,7,"SCENE VII. On board POMPEY's galley, off Misenum."
+529,28,3,1,SCENE I. A plain in Syria.
+530,28,3,2,SCENE II. Rome. An ante-chamber in OCTAVIUS CAESAR's house.
+531,28,3,3,SCENE III. Alexandria. CLEOPATRA's palace.
+532,28,3,4,SCENE IV. Athens. A room in MARK ANTONY's house.
+533,28,3,5,SCENE V. The same. Another room.
+534,28,3,6,SCENE VI. Rome. OCTAVIUS CAESAR's house.
+535,28,3,7,SCENE VII. Near Actium. MARK ANTONY's camp.
+536,28,3,8,SCENE VIII. A plain near Actium.
+537,28,3,9,SCENE IX. Another part of the plain.
+538,28,4,1,SCENE I. Before Alexandria. OCTAVIUS CAESAR's camp.
+539,28,4,2,SCENE II. Alexandria. CLEOPATRA's palace.
+540,28,4,3,SCENE III. The same. Before the palace.
+541,28,4,4,SCENE IV. The same. A room in the palace.
+542,28,4,5,SCENE V. Alexandria. MARK ANTONY's camp.
+543,28,4,6,SCENE VI. Alexandria. OCTAVIUS CAESAR's camp.
+544,28,4,7,SCENE VII. Field of battle between the camps.
+545,28,4,8,SCENE VIII. Under the walls of Alexandria.
+546,28,4,9,SCENE IX. OCTAVIUS CAESAR's camp.
+547,28,5,1,SCENE I. Alexandria. OCTAVIUS CAESAR's camp.
+548,28,5,2,SCENE II. Alexandria. A room in the monument.
+549,29,1,1,SCENE I. Rome. A street.
+550,29,1,2,SCENE II. Corioli. The Senate-house.
+551,29,1,3,SCENE III. Rome. A room in Marcius' house.
+552,29,1,4,SCENE IV. Before Corioli.
+553,29,1,5,SCENE V. Corioli. A street.
+554,29,1,6,SCENE VI. Near the camp of Cominius.
+555,29,1,7,SCENE VII. The gates of Corioli.
+556,29,1,8,SCENE VIII. A field of battle.
+557,29,1,9,SCENE IX. The Roman camp.
+558,29,2,1,SCENE I. Rome. A public place.
+559,29,2,2,SCENE II. The same. The Capitol.
+560,29,2,3,SCENE III. The same. The Forum.
+561,29,3,1,SCENE I. Rome. A street.
+562,29,3,2,SCENE II. A room in CORIOLANUS'S house.
+563,29,3,3,SCENE III. The same. The Forum.
+564,29,4,1,SCENE I. Rome. Before a gate of the city.
+565,29,4,2,SCENE II. The same. A  street near the gate.
+566,29,4,3,SCENE III. A highway between Rome and Antium.
+567,29,4,4,SCENE IV. Antium. Before Aufidius's house.
+568,29,4,5,SCENE V. The same. A hall in Aufidius's house.
+569,29,4,6,SCENE VI. Rome. A public place.
+570,29,4,7,"SCENE VII. A camp, at a small distance from Rome."
+571,29,5,1,SCENE I. Rome. A public place.
+572,29,5,2,SCENE II. Entrance of the Volscian camp before Rome.
+573,29,5,3,SCENE III. The tent of Coriolanus.
+574,29,5,4,SCENE IV. Rome. A public place.
+575,29,5,5,SCENE V. The same. A street near the gate.
+576,29,5,6,SCENE VI. Antium. A public place.
+577,30,1,1,SCENE I. Elsinore. A platform before the castle.
+578,30,1,2,SCENE II. A room of state in the castle.
+579,30,1,3,SCENE III. A room in Polonius' house.
+580,30,1,4,SCENE IV. The platform.
+581,30,1,5,SCENE V. Another part of the platform.
+582,30,2,1,SCENE I. A room in POLONIUS' house.
+583,30,2,2,SCENE II. A room in the castle.
+584,30,3,1,SCENE I. A room in the castle.
+585,30,3,2,SCENE II. A hall in the castle.
+586,30,3,3,SCENE III. A room in the castle.
+587,30,3,4,SCENE IV. The Queen's closet.
+588,30,4,1,SCENE I. A room in the castle.
+589,30,4,2,SCENE II. Another room in the castle.
+590,30,4,3,SCENE III. Another room in the castle.
+591,30,4,4,SCENE IV. A plain in Denmark.
+592,30,4,5,SCENE V. Elsinore. A room in the castle.
+593,30,4,6,SCENE VI. Another room in the castle.
+594,30,4,7,SCENE VII. Another room in the castle.
+595,30,5,1,SCENE I. A churchyard.
+596,30,5,2,SCENE II. A hall in the castle.
+597,31,1,1,SCENE I. Rome. A street.
+598,31,1,2,SCENE II. A public place.
+599,31,1,3,SCENE III. The same. A street.
+600,31,2,1,SCENE I. Rome. BRUTUS's orchard.
+601,31,2,2,SCENE II. CAESAR's house.
+602,31,2,3,SCENE III. A street near the Capitol.
+603,31,2,4,"SCENE IV. Another part of the same street, before the house of BRUTUS."
+604,31,3,1,SCENE I. Rome. Before the Capitol; the Senate sitting above.
+605,31,3,2,SCENE II. The Forum.
+606,31,3,3,SCENE III. A street.
+607,31,4,1,SCENE I. A house in Rome.
+608,31,4,2,SCENE II. Camp near Sardis. Before BRUTUS's tent.
+609,31,4,3,SCENE III. Brutus's tent.
+610,31,5,1,SCENE I. The plains of Philippi.
+611,31,5,2,SCENE II. The same. The field of battle.
+612,31,5,3,SCENE III. Another part of the field.
+613,31,5,4,SCENE IV. Another part of the field.
+614,31,5,5,SCENE V. Another part of the field.
+615,32,1,1,SCENE I. King Lear's palace.
+616,32,1,2,SCENE II. The Earl of Gloucester's castle.
+617,32,1,3,SCENE III. The Duke of Albany's palace.
+618,32,1,4,SCENE IV. A hall in the same.
+619,32,1,5,SCENE V. Court before the same.
+620,32,2,1,SCENE I. GLOUCESTER's castle.
+621,32,2,2,SCENE II. Before Gloucester's castle.
+622,32,2,3,SCENE III. A wood.
+623,32,2,4,SCENE IV. Before GLOUCESTER's castle. KENT in the stocks.
+624,32,3,1,SCENE I. A heath.
+625,32,3,2,SCENE II. Another part of the heath. Storm still.
+626,32,3,3,SCENE III. Gloucester's castle.
+627,32,3,4,SCENE IV. The heath. Before a hovel.
+628,32,3,5,SCENE V. Gloucester's castle.
+629,32,3,6,SCENE VI. A chamber in a farmhouse adjoining the castle.
+630,32,3,7,SCENE VII. Gloucester's castle.
+631,32,4,1,SCENE I. The heath.
+632,32,4,2,SCENE II. Before ALBANY's palace.
+633,32,4,3,SCENE III. The French camp near Dover.
+634,32,4,4,SCENE IV. The same. A tent.
+635,32,4,5,SCENE V. Gloucester's castle.
+636,32,4,6,SCENE VI. Fields near Dover.
+637,32,4,7,"SCENE VII. A tent in the French camp. LEAR on a bed asleep,"
+638,32,5,1,"SCENE I. The British camp, near Dover."
+639,32,5,2,SCENE II. A field between the two camps.
+640,32,5,3,SCENE III. The British camp near Dover.
+641,33,1,1,SCENE I. A desert place.
+642,33,1,2,SCENE II. A camp near Forres.
+643,33,1,3,SCENE III. A heath near Forres.
+644,33,1,4,SCENE IV. Forres. The palace.
+645,33,1,5,SCENE V. Inverness. Macbeth's castle.
+646,33,1,6,SCENE VI. Before Macbeth's castle.
+647,33,1,7,SCENE VII. Macbeth's castle.
+648,33,2,1,SCENE I. Court of Macbeth's castle.
+649,33,2,2,SCENE II. The same.
+650,33,2,3,SCENE III. The same.
+651,33,2,4,SCENE IV. Outside Macbeth's castle.
+652,33,3,1,SCENE I. Forres. The palace.
+653,33,3,2,SCENE II. The palace.
+654,33,3,3,SCENE III. A park near the palace.
+655,33,3,4,SCENE IV. The same. Hall in the palace.
+656,33,3,5,SCENE V. A Heath.
+657,33,3,6,SCENE VI. Forres. The palace.
+658,33,4,1,"SCENE I. A cavern. In the middle, a boiling cauldron."
+659,33,4,2,SCENE II. Fife. Macduff's castle.
+660,33,4,3,SCENE III. England. Before the King's palace.
+661,33,5,1,SCENE I. Dunsinane. Ante-room in the castle.
+662,33,5,2,SCENE II. The country near Dunsinane.
+663,33,5,3,SCENE III. Dunsinane. A room in the castle.
+664,33,5,4,SCENE IV. Country near Birnam wood.
+665,33,5,5,SCENE V. Dunsinane. Within the castle.
+666,33,5,6,SCENE VI. Dunsinane. Before the castle.
+667,33,5,7,SCENE VII. Another part of the field.
+668,33,5,8,SCENE VIII. Another part of the field.
+669,34,1,1,SCENE I. Venice. A street.
+670,34,1,2,SCENE II. Another street.
+671,34,1,3,SCENE III. A council-chamber.
+672,34,2,1,SCENE I. A Sea-port in Cyprus. An open place near the quay.
+673,34,2,2,SCENE II. A street.
+674,34,2,3,SCENE III. A hall in the castle.
+675,34,3,1,SCENE I. Before the castle.
+676,34,3,2,SCENE II. A room in the castle.
+677,34,3,3,SCENE III. The garden of the castle.
+678,34,3,4,SCENE IV. Before the castle.
+679,34,4,1,SCENE I. Cyprus. Before the castle.
+680,34,4,2,SCENE II. A room in the castle.
+681,34,4,3,SCENE III. Another room In the castle.
+682,34,5,1,SCENE I. Cyprus. A street.
+683,34,5,2,SCENE II. A bedchamber in the castle: DESDEMONA in bed asleep;
+684,35,1,0,PROLOGUE
+685,35,1,1,SCENE I. Verona. A public place.
+686,35,1,2,SCENE II. A street.
+687,35,1,3,SCENE III. A room in Capulet's house.
+688,35,1,4,SCENE IV. A street.
+689,35,1,5,SCENE V. A hall in Capulet's house.
+690,35,2,0,PROLOGUE
+691,35,2,1,SCENE I. A lane by the wall of Capulet's orchard.
+692,35,2,2,SCENE II. Capulet's orchard.
+693,35,2,3,SCENE III. Friar Laurence's cell.
+694,35,2,4,SCENE IV. A street.
+695,35,2,5,SCENE V. Capulet's orchard.
+696,35,2,6,SCENE VI. Friar Laurence's cell.
+697,35,3,1,SCENE I. A public place.
+698,35,3,2,SCENE II. Capulet's orchard.
+699,35,3,3,SCENE III. Friar Laurence's cell.
+700,35,3,4,SCENE IV. A room in Capulet's house.
+701,35,3,5,SCENE V. Capulet's orchard.
+702,35,4,1,SCENE I. Friar Laurence's cell.
+703,35,4,2,SCENE II. Hall in Capulet's house.
+704,35,4,3,SCENE III. Juliet's chamber.
+705,35,4,4,SCENE IV. Hall in Capulet's house.
+706,35,4,5,SCENE V. Juliet's chamber.
+707,35,5,1,SCENE I. Mantua. A street.
+708,35,5,2,SCENE II. Friar Laurence's cell.
+709,35,5,3,SCENE III. A churchyard; in it a tomb belonging to the Capulets.
+710,36,1,1,SCENE I. Athens. A hall in Timon's house.
+711,36,1,2,SCENE II. A banqueting-room in Timon's house.
+712,36,2,1,SCENE I. A Senator's house.
+713,36,2,2,SCENE II. The same. A hall in Timon's house.
+714,36,3,1,SCENE I. A room in Lucullus' house.
+715,36,3,2,SCENE II. A public place.
+716,36,3,3,SCENE III. A room in Sempronius' house.
+717,36,3,4,SCENE IV. The same. A hall in Timon's house.
+718,36,3,5,SCENE V. The same. The senate-house. The Senate sitting.
+719,36,3,6,SCENE VI. The same. A banqueting-room in Timon's house.
+720,36,4,1,SCENE I. Without the walls of Athens.
+721,36,4,2,SCENE II. Athens. A room in Timon's house.
+722,36,4,3,"SCENE III. Woods and cave, near the seashore."
+723,36,5,1,SCENE I. The woods. Before Timon's cave.
+724,36,5,2,SCENE II. Before the walls of Athens.
+725,36,5,3,"SCENE III. The woods. Timon's cave, and a rude tomb seen."
+726,36,5,4,SCENE IV. Before the walls of Athens.
+727,37,1,1,SCENE I. Rome. Before the Capitol.
+728,37,2,1,SCENE I. Rome. Before the Palace.
+729,37,2,2,SCENE II. A forest near Rome. Horns and cry of hounds heard.
+730,37,2,3,SCENE III. A lonely part of the forest.
+731,37,2,4,SCENE IV. Another part of the forest.
+732,37,3,1,SCENE I. Rome. A street.
+733,37,3,2,SCENE II. A room in Titus's house. A banquet set out.
+734,37,4,1,SCENE I. Rome. Titus's garden.
+735,37,4,2,SCENE II. The same. A room in the palace.
+736,37,4,3,SCENE III. The same. A public place.
+737,37,4,4,SCENE IV. The same. Before the palace.
+738,37,5,1,SCENE I. Plains near Rome.
+739,37,5,2,SCENE II. Rome. Before TITUS's house.
+740,37,5,3,SCENE III. Court of TITUS's house. A banquet set out.
+741,38,1,1,Sonnet I
+742,38,1,2,Sonnet II
+743,38,1,3,Sonnet III
+744,38,1,4,Sonnet IV
+745,38,1,5,Sonnet V
+746,38,1,6,Sonnet VI
+747,38,1,7,Sonnet VII
+748,38,1,8,Sonnet VIII
+749,38,1,9,Sonnet IX
+750,38,1,10,Sonnet X
+751,38,1,11,Sonnet XI
+752,38,1,12,Sonnet XII
+753,38,1,13,Sonnet XIII
+754,38,1,14,Sonnet XIV
+755,38,1,15,Sonnet XV
+756,38,1,16,Sonnet XVI
+757,38,1,17,Sonnet XVII
+758,38,1,18,Sonnet XVIII
+759,38,1,19,Sonnet XIX
+760,38,1,20,Sonnet XX
+761,38,1,21,Sonnet XXI
+762,38,1,22,Sonnet XXII
+763,38,1,23,Sonnet XXIII
+764,38,1,24,Sonnet XXIV
+765,38,1,25,Sonnet XXV
+766,38,1,26,Sonnet XXVI
+767,38,1,27,Sonnet XXVII
+768,38,1,28,Sonnet XXVIII
+769,38,1,29,Sonnet XXIX
+770,38,1,30,Sonnet XXX
+771,38,1,31,Sonnet XXXI
+772,38,1,32,Sonnet XXXII
+773,38,1,33,Sonnet XXXIII
+774,38,1,34,Sonnet XXXIV
+775,38,1,35,Sonnet XXXV
+776,38,1,36,Sonnet XXXVI
+777,38,1,37,Sonnet XXXVII
+778,38,1,38,Sonnet XXXVIII
+779,38,1,39,Sonnet XXXIX
+780,38,1,40,Sonnet XL
+781,38,1,41,Sonnet XLI
+782,38,1,42,Sonnet XLII
+783,38,1,43,Sonnet XLIII
+784,38,1,44,Sonnet XLIV
+785,38,1,45,Sonnet XLV
+786,38,1,46,Sonnet XLVI
+787,38,1,47,Sonnet XLVII
+788,38,1,48,Sonnet XLVIII
+789,38,1,49,Sonnet XLIX
+790,38,1,50,Sonnet L
+791,38,1,51,Sonnet LI
+792,38,1,52,Sonnet LII
+793,38,1,53,Sonnet LIII
+794,38,1,54,Sonnet LIV
+795,38,1,55,Sonnet LV
+796,38,1,56,Sonnet LVI
+797,38,1,57,Sonnet LVII
+798,38,1,58,Sonnet LVIII
+799,38,1,59,Sonnet LIX
+800,38,1,60,Sonnet LX
+801,38,1,61,Sonnet LXI
+802,38,1,62,Sonnet LXII
+803,38,1,63,Sonnet LXIII
+804,38,1,64,Sonnet LXIV
+805,38,1,65,Sonnet LXV
+806,38,1,66,Sonnet LXVI
+807,38,1,67,Sonnet LXVII
+808,38,1,68,Sonnet LXVIII
+809,38,1,69,Sonnet LXIX
+810,38,1,70,Sonnet LXX
+811,38,1,71,Sonnet LXXI
+812,38,1,72,Sonnet LXXII
+813,38,1,73,Sonnet LXXIII
+814,38,1,74,Sonnet LXXIV
+815,38,1,75,Sonnet LXXV
+816,38,1,76,Sonnet LXXVI
+817,38,1,77,Sonnet LXXVII
+818,38,1,78,Sonnet LXXVIII
+819,38,1,79,Sonnet LXXIX
+820,38,1,80,Sonnet LXXX
+821,38,1,81,Sonnet LXXXI
+822,38,1,82,Sonnet LXXXII
+823,38,1,83,Sonnet LXXXIII
+824,38,1,84,Sonnet LXXXIV
+825,38,1,85,Sonnet LXXXV
+826,38,1,86,Sonnet LXXXVI
+827,38,1,87,Sonnet LXXXVII
+828,38,1,88,Sonnet LXXXVIII
+829,38,1,89,Sonnet LXXXIX
+830,38,1,90,Sonnet XC
+831,38,1,91,Sonnet XCI
+832,38,1,92,Sonnet XCII
+833,38,1,93,Sonnet XCIII
+834,38,1,94,Sonnet XCIV
+835,38,1,95,Sonnet XCV
+836,38,1,96,Sonnet XCVI
+837,38,1,97,Sonnet XCVII
+838,38,1,98,Sonnet XCVIII
+839,38,1,99,Sonnet XCIX
+840,38,1,100,Sonnet C
+841,38,1,101,Sonnet CI
+842,38,1,102,Sonnet CII
+843,38,1,103,Sonnet CIII
+844,38,1,104,Sonnet CIV
+845,38,1,105,Sonnet CV
+846,38,1,106,Sonnet CVI
+847,38,1,107,Sonnet CVII
+848,38,1,108,Sonnet CVIII
+849,38,1,109,Sonnet CIX
+850,38,1,110,Sonnet CX
+851,38,1,111,Sonnet CXI
+852,38,1,112,Sonnet CXII
+853,38,1,113,Sonnet CXIII
+854,38,1,114,Sonnet CXIV
+855,38,1,115,Sonnet CXV
+856,38,1,116,Sonnet CXVI
+857,38,1,117,Sonnet CXVII
+858,38,1,118,Sonnet CXVIII
+859,38,1,119,Sonnet CXIX
+860,38,1,120,Sonnet CXX
+861,38,1,121,Sonnet CXXI
+862,38,1,122,Sonnet CXXII
+863,38,1,123,Sonnet CXXIII
+864,38,1,124,Sonnet CXXIV
+865,38,1,125,Sonnet CXXV
+866,38,1,126,Sonnet CXXVI
+867,38,1,127,Sonnet CXXVII
+868,38,1,128,Sonnet CXXVIII
+869,38,1,129,Sonnet CXXIX
+870,38,1,130,Sonnet CXXX
+871,38,1,131,Sonnet CXXXI
+872,38,1,132,Sonnet CXXXII
+873,38,1,133,Sonnet CXXXIII
+874,38,1,134,Sonnet CXXXIV
+875,38,1,135,Sonnet CXXXV
+876,38,1,136,Sonnet CXXXVI
+877,38,1,137,Sonnet CXXXVII
+878,38,1,138,Sonnet CXXXVIII
+879,38,1,139,Sonnet CXXXIX
+880,38,1,140,Sonnet CXL
+881,38,1,141,Sonnet CXLI
+882,38,1,142,Sonnet CXLII
+883,38,1,143,Sonnet CXLIII
+884,38,1,144,Sonnet CXLIV
+885,38,1,145,Sonnet CXLV
+886,38,1,146,Sonnet CXLVI
+887,38,1,147,Sonnet CXLVII
+888,38,1,148,Sonnet CXLVIII
+889,38,1,149,Sonnet CXLIX
+890,38,1,150,Sonnet CL
+891,38,1,151,Sonnet CLI
+892,38,1,152,Sonnet CLII
+893,38,1,153,Sonnet CLIII
+894,38,1,154,Sonnet CLIV
+895,39,1,1,A Lover's Complaint
+896,39,2,1,The Rape of Lucrece
+897,39,3,1,Venus and Adonis
+898,39,4,1,A FUNERAL ELEGY

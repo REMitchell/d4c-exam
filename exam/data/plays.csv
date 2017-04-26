@@ -1,0 +1,39 @@
+1,All's Well That Ends Well,allswell,COMEDY,1602
+2,As You Like It,asyoulikeit,COMEDY,1599
+3,The Comedy of Errors,comedy_errors,COMEDY,1589
+4,Cymbeline,cymbeline,COMEDY,1609
+5,Love's Labours Lost,lll,COMEDY,1594
+6,Measure for Measure,measure,COMEDY,1604
+7,"The Merry Wives of Windsor",merry_wives,COMEDY,1600
+8,The Merchant of Venice,merchant,COMEDY,1596
+9,A Midsummer Night's Dream,midsummer,COMEDY,1595
+10,Much Ado About Nothing,much_ado,COMEDY,1598
+11,"Pericles, Prince of Tyre",pericles,COMEDY,1608
+12,Taming of the Shrew,taming_shrew,COMEDY,1593
+13,The Tempest,tempest,COMEDY,1611
+14,Troilus and Cressida,troilus_cressida,COMEDY,1601
+15,Twelfth Night,twelfth_night,COMEDY,1599
+16,Two Gentlemen of Verona,two_gentlemen,COMEDY,1594
+17,Winter's Tale,winters_tale,COMEDY,1610
+18,"Henry IV, part 1",1henryiv,HISTORY,1597
+19,"Henry IV, part 2",2henryiv,HISTORY,1597
+20,Henry V,henryv,HISTORY,1598
+21,"Henry VI, part 1",1henryvi,HISTORY,1591
+22,"Henry VI, part 2",2henryvi,HISTORY,1597
+23,"Henry VI, part 3",3henryvi,HISTORY,1590
+24,Henry VIII,henryviii,HISTORY,1612
+25,King John,john,HISTORY,1596
+26,Richard II,richardii,HISTORY,1595
+27,Richard III,richardiii,HISTORY,1592
+28,Antony and Cleopatra,cleopatra,TRAGEDY,1606
+29,Coriolanus,coriolanus,TRAGEDY,1607
+30,Hamlet,hamlet,TRAGEDY,1600
+31,Julius Caesar,julius_caesar,TRAGEDY,1599
+32,King Lear,lear,TRAGEDY,1605
+33,Macbeth,macbeth,TRAGEDY,1605
+34,Othello,othello,TRAGEDY,1604
+35,Romeo and Juliet,romeo_juliet,TRAGEDY,1594
+36,Timon of Athens,timon,TRAGEDY,1607
+37,Titus Andronicus,titus,TRAGEDY,1593
+38,Sonnets,Poetry,POETRY,1609
+39,Poetry,Poetry,POETRY,1594
